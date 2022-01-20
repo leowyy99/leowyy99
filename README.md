@@ -1,6 +1,6 @@
 ## Hello, it's YY 👋
 
-I'm a Computer Engineering undergraduate interested in anything Linux, Vim, Bash and Embedded Systems related.
+I'm a Computer Engineering undergraduate interested in anything GNU/Linux, Vim, Bash and Embedded Systems related.
 
 ## Languages and Technologies
 
