@@ -21,3 +21,7 @@ I'm a Computer Engineering undergraduate interested in anything Linux, Vim, Bash
   &nbsp;
 </p>
 <!-- markdownlint-enable MD033 -->
+
+## Connect with me
+
+- [LinkedIn](www.linkedin.com/in/leowyy99)
