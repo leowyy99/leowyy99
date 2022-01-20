@@ -2,7 +2,7 @@
 
 I'm a Computer Engineering undergraduate interested in anything Linux, Vim, Bash and Embedded Systems related.
 
-### Languages and Technologies
+## Languages and Technologies
 
  <!-- markdownlint-disable MD033 -->
  <!-- The lack of line breaks within anchor tags is due to a weird underline appearing when line breaks are present. -->
@@ -14,6 +14,8 @@ I'm a Computer Engineering undergraduate interested in anything Linux, Vim, Bash
   <a href="https://www.java.com/en/" title="Java"><img src="svgs/java.svg" height="35" width="auto" /></a>
   &nbsp;
   <a href="https://flutter.dev" title="Flutter"><img src="svgs/flutter.svg" height="35" width="auto" /></a>
+  &nbsp;
+  <a href="https://www.gnu.org/software/bash/" title="Flutter"><img src="svgs/bash.svg" height="35" width="auto" /></a>
   &nbsp;
   <a href="https://www.arduino.cc/" title="Flutter"><img src="svgs/arduino.svg" height="35" width="auto" /></a>
   &nbsp;
